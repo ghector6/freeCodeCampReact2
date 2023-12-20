@@ -4,8 +4,8 @@ function Testimonio() {
   return (
     <div className="contenedor-testimonio">
       <img
-      className="imagen-testimonio" 
-       />
+      className="imagen-testimonio"
+      src="../imagenes/testimonio-imagen1.png"/>
     </div>
   );
 }
