@@ -5,7 +5,10 @@ import {Testimonio} from './componentes/Testimonio';
 function App() {
   return (
     <div className="App">
+      <div className="contenedor-principal">
+        <h1>Esto es lo que nuestros alumnos en makingdevs opinan</h1>
         <Testimonio/>
+      </div>    
     </div>
   );
 }
